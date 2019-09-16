@@ -10,7 +10,8 @@ Results on Leaderboard:
 
 | Models | Public Leaderboard | Private Leaderboard | Outcome
 | :---         |     :---      |         :--- |          :--- |
-| LightGBM | 1101.21368 (MAE) | 1113.62895 (MAE) | 114th / 3055
+| LightGBM (Included) | 1108.50187 (MAE) | 1121.82356 (MAE) | 664th / 3055
+| Ensemble (Best) | 1101.21368 (MAE) | 1113.62895 (MAE) | 114th / 3055
 
 ## Instacart Market Basket Analysis
 
