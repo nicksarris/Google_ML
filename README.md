@@ -27,6 +27,8 @@ Results on Leaderboard:
 
 "The Conversation AI team, a research initiative founded by Jigsaw and Google (both part of Alphabet), builds technology to protect voices in conversation. A main area of focus is machine learning models that can identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion. When the Conversation AI team first built toxicity models, they found that the models incorrectly learned to associate the names of frequently attacked identities with toxicity ... In this competition, you're challenged to build a model that recognizes toxicity and minimizes this type of unintended bias with respect to mentions of identities. You'll be using a dataset labeled for identity mentions and optimizing a metric designed to measure unintended bias. Develop strategies to reduce unintended bias in machine learning models, and you'll help the Conversation AI team, and the entire industry, build models that work well for a wide range of conversations."
 
+Results on Leaderboard:
+
 | Models | Public Leaderboard | Private Leaderboard | Outcome
 | :---         |     :---      |         :--- |          :--- |
 | Bert Singular (Included) | N/A | N/A | N/A
@@ -37,6 +39,19 @@ Results on Leaderboard:
 
 In this competition, Kaggle is challenging you to build a model that predicts the total ride duration of taxi trips in New York City. Your primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables.
 
+Results on Leaderboard:
+
+| Models | Public Leaderboard | Private Leaderboard | Outcome
+| :---         |     :---      |         :--- |          :--- |
+| Ensemble (Included) | 0.41204 (RMSE) | 0.40932 (RMSE) | 536th / 1257
+| Ensemble (Best) | 0.37745 (RMSE | 0.37498 (RMSE) | 130th / 1257
+
 ## The Numer.ai Hedge Fund
 
 Numerai is an AI-run, crowd-sourced hedge fund based in San Francisco. It was created by South African technologist Richard Craib in October 2015. Its primary competitors are other open source trading platforms mainly QuantConnect, Quantopian & WorldQuant. Every week, Numerai hosts a tournament in which data scientists submit their predictions in exchange for the potential to earn some amount of USD and a cryptocurrency called Numeraire.
+
+Results on Leaderboard:
+
+| Models | Public Leaderboard | Private Leaderboard | Outcome
+| :---         |     :---      |         :--- |          :--- |
+| XGBoost (Included) | N/A | N/A | N/A
