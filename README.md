@@ -10,12 +10,18 @@ Results on Leaderboard:
 
 | Models | Public Leaderboard | Private Leaderboard | Outcome
 | :---         |     :---      |         :--- |          :--- |
-| LightGBM (Included) | 1108.50187 (MAE) | 1121.82356 (MAE) | 664th / 3055
-| Ensemble (Best) | 1101.21368 (MAE) | 1113.62895 (MAE) | 114th / 3055
+| LightGBM (Included) | 0.40419 (F1) | 0.40249 (F1) | 378th / 2622
 
 ## Instacart Market Basket Analysis
 
 "Whether you shop from meticulously planned grocery lists or let whimsy guide your grazing, our unique food rituals define who we are. Instacart, a grocery ordering and delivery app, aims to make it easy to fill your refrigerator and pantry with your personal favorites and staples when you need them. After selecting products through the Instacart app, personal shoppers review your order and do the in-store shopping and delivery for you ... In this competition, Instacart is challenging the Kaggle community to use this anonymized data on customer orders over time to predict which previously purchased products will be in a user’s next order."
+
+Results on Leaderboard:
+
+| Models | Public Leaderboard | Private Leaderboard | Outcome
+| :---         |     :---      |         :--- |          :--- |
+| LightGBM (Included) | 1108.50187 (MAE) | 1121.82356 (MAE) | 664th / 3055
+| Ensemble (Best) | 1101.21368 (MAE) | 1113.62895 (MAE) | 114th / 3055
 
 ## Jigsaw Unintended Bias in Toxicity Classification
 
