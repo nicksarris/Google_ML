@@ -1,0 +1,5 @@
+# Ignore Data Folder
+data/*
+
+# Keep Record in Git to show Folder exists
+!data/.gitkeep
