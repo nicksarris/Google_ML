@@ -30,7 +30,7 @@ Results on Leaderboard:
 | Models | Public Leaderboard | Private Leaderboard | Outcome
 | :---         |     :---      |         :--- |          :--- |
 | Bert Singular (Included) | N/A | N/A | N/A
-| Bert Ensemble | N/A | N/A | 378th / N/A
+| Bert Ensemble | N/A | N/A | N/A
 | LSTM/Bert Ensemble (Best) | N/A | 0.94511 (AUC) | 45th / 2646 
 
 ## New York City Taxi Trip Duration
