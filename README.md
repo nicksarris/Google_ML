@@ -7,15 +7,10 @@
 "When you’ve been devastated by a serious car accident, your focus is on the things that matter the most: family, friends, and other loved ones. Pushing paper with your insurance agent is the last place you want your time or mental energy spent. This is why Allstate, a personal insurer in the United States, is continually seeking fresh ideas to improve their claims service for the over 16 million households they protect. Allstate is currently developing automated methods of predicting the cost, and hence severity, of claims. In this recruitment challenge, Kagglers are invited to show off their creativity and flex their technical chops by creating an algorithm which accurately predicts claims severity."
 
 Results on Leaderboard:
-| Models | Public Leaderboard | Private Leaderboard | Outcome
-| LightGBM | 1101.21368 (MAE) | 1113.62895 (MAE) | 114th / 3055
 
-|  Models| ROUGE-1 | ROUGE-2 |ROUGE-L
+| Models | Public Leaderboard | Private Leaderboard | Outcome
 | :---         |     :---      |         :--- |          :--- |
-| Transformer Baseline   | 40.9     | 18.02    |37.17    |
-| BERTSUM+Classifier     | 43.23       | 20.22    |39.60      |
-| BERTSUM+Transformer     | 43.25      | 20.24    |39.63     |
-| BERTSUM+LSTM     | 43.22       |  20.17    |39.59      |
+| LightGBM | 1101.21368 (MAE) | 1113.62895 (MAE) | 114th / 3055
 
 ## Instacart Market Basket Analysis
 
