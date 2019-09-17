@@ -6,7 +6,7 @@
 
 ---
 
-Link to Data - https://www.kaggle.com/c/allstate-claims-severity/data
+Data - https://www.kaggle.com/c/allstate-claims-severity/data
 
 <pre>
 Allstate_Cleaned -----|----- data ----------------------|----- train.csv
