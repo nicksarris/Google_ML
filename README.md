@@ -13,7 +13,7 @@ Results on Leaderboard:
 | LightGBM (Included) | 1108.50187 (MAE) | 1121.82356 (MAE) | 664th / 3055
 | Ensemble (Best) | 1101.21368 (MAE) | 1113.62895 (MAE) | 114th / 3055
 
-Link to Competition: https://www.kaggle.com/c/allstate-claims-severity/
+Link to Competition: https://www.kaggle.com/c/allstate-claims-severity/ <br/>
 Team Name: Misfyre (114th / 3055)
 
 ## Instacart Market Basket Analysis
@@ -26,7 +26,7 @@ Results on Leaderboard:
 | :---         |     :---      |         :--- |          :--- |
 | LightGBM (Included) | 0.40419 (F1) | 0.40249 (F1) | 378th / 2622
 
-Link to Competition: https://www.kaggle.com/c/instacart-market-basket-analysis/
+Link to Competition: https://www.kaggle.com/c/instacart-market-basket-analysis/ <br/>
 Team Name: Nick Sarris (378th / 2622)
 
 ## Jigsaw Unintended Bias in Toxicity Classification
@@ -41,7 +41,7 @@ Results on Leaderboard:
 | Bert Ensemble | N/A | N/A | N/A
 | LSTM/Bert Ensemble (Best) | N/A | 0.94511 (AUC) | 45th / 2646 
 
-Link to Competition: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+Link to Competition: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification <br/>
 Team Name: Nick & Wenrui (45th / 2646)
 
 ## New York City Taxi Trip Duration
@@ -55,7 +55,7 @@ Results on Leaderboard:
 | Ensemble (Included) | 0.41204 (RMSE) | 0.40932 (RMSE) | 536th / 1257
 | Ensemble (Best) | 0.37745 (RMSE | 0.37498 (RMSE) | 130th / 1257
 
-Link to Competition: https://www.kaggle.com/c/nyc-taxi-trip-duration
+Link to Competition: https://www.kaggle.com/c/nyc-taxi-trip-duration <br/>
 Team Name: Nick Sarris (130th / 1257)
 
 ## The Numer.ai Hedge Fund
@@ -68,5 +68,5 @@ Results on Leaderboard:
 | :---         |     :---      |         :--- |          :--- |
 | XGBoost (Included) | N/A | N/A | N/A
 
-Link to Competition: https://numer.ai/rounds
+Link to Competition: https://numer.ai/rounds <br/>
 Team Name: N/A (N/A)
