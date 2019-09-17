@@ -1,25 +1,22 @@
-# Instacart Market Basket Analysis: 
+# Jigsaw Unintended Bias in Toxicity Classification: 
 
 ---
 
-"Whether you shop from meticulously planned grocery lists or let whimsy guide your grazing, our unique food rituals define who we are. Instacart, a grocery ordering and delivery app, aims to make it easy to fill your refrigerator and pantry with your personal favorites and staples when you need them. After selecting products through the Instacart app, personal shoppers review your order and do the in-store shopping and delivery for you ... In this competition, Instacart is challenging the Kaggle community to use this anonymized data on customer orders over time to predict which previously purchased products will be in a user’s next order."
+"The Conversation AI team, a research initiative founded by Jigsaw and Google (both part of Alphabet), builds technology to protect voices in conversation. A main area of focus is machine learning models that can identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion. When the Conversation AI team first built toxicity models, they found that the models incorrectly learned to associate the names of frequently attacked identities with toxicity ... In this competition, you're challenged to build a model that recognizes toxicity and minimizes this type of unintended bias with respect to mentions of identities. You'll be using a dataset labeled for identity mentions and optimizing a metric designed to measure unintended bias. Develop strategies to reduce unintended bias in machine learning models, and you'll help the Conversation AI team, and the entire industry, build models that work well for a wide range of conversations."
 
 ---
 
 ### Competition Data
 
-Link - https://www.kaggle.com/c/instacart-market-basket-analysis/data
+Link - https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data
 
 <pre>
-Instacart_Cleaned -----|----- data ---------------------------------|----- aisles.csv
-                       |----- .gitignore                            |----- departments.csv
-                       |----- README.md                             |----- order_products__prior.csv
-                       |----- instacart_labelling_script.ipynb      |----- order_products__train.csv
-                       |----- instacart_lightgbm.ipynb              |----- orders.csv
-                       |----- instacart_processing_script.ipynb     |----- products.csv
-                       |----- instacart_product_script.ipynb
-                       |----- instacart_splitting_script.ipynb
-                       |----- instacart_statistics_script.ipynb
+Jigsaw_Cleaned -----|----- data ---------------------------------|----- aisles.csv
+                    |----- .gitignore                            |----- departments.csv
+                    |----- README.md                             |----- order_products__prior.csv
+                    |----- jigsaw_bert_inference.ipynb           |----- order_products__train.csv
+                    |----- jigsaw_bert_processing.ipynb          |----- orders.csv
+                    |----- jigsaw_bert_training.ipynb            |----- products.csv
 </pre>
 
 ---
