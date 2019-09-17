@@ -22,3 +22,5 @@ Allstate_Cleaned -----|----- data ----------------------|----- train.csv
 ### Generating Solution
 
 In order to generate the solution file for this competiton, simply download the train/test files from the given link and place them in their proper directory before running **allstate_cleaned.ipynb**. The file will be generated and placed in the ./data/ folder for further exploration.
+
+---
