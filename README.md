@@ -77,7 +77,7 @@ For this competition, the repository contains the code for one of the BERT (BASE
 
 ### New York City Taxi Trip Duration
 
-In this competition, Kaggle is challenging you to build a model that predicts the total ride duration of taxi trips in New York City. Your primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables.
+"In this competition, Kaggle is challenging you to build a model that predicts the total ride duration of taxi trips in New York City. Your primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables."
 
 Team Name - Nick Sarris (130th / 1257) <br />
 Link to Competition - https://www.kaggle.com/c/nyc-taxi-trip-duration <br/>
@@ -100,7 +100,7 @@ For this competition, the repository contains the code for my untuned final ense
 
 ### The Numer.ai Hedge Fund
 
-Numerai is an AI-run, crowd-sourced hedge fund based in San Francisco. It was created by South African technologist Richard Craib in October 2015. Its primary competitors are other open source trading platforms mainly QuantConnect, Quantopian & WorldQuant. Every week, Numerai hosts a tournament in which data scientists submit their predictions in exchange for the potential to earn some amount of USD and a cryptocurrency called Numeraire.
+"Numerai is an AI-run, crowd-sourced hedge fund based in San Francisco. It was created by South African technologist Richard Craib in October 2015. Its primary competitors are other open source trading platforms mainly QuantConnect, Quantopian & WorldQuant. Every week, Numerai hosts a tournament in which data scientists submit their predictions in exchange for the potential to earn some amount of USD and a cryptocurrency called Numeraire."
 
 Team Name - N/A (N/A) <br />
 Link to Competition - https://numer.ai/rounds <br/>
