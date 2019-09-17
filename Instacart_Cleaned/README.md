@@ -1,5 +1,4 @@
-# Instacart Market Basket Analysis
-: 
+# Instacart Market Basket Analysis: 
 
 ---
 
@@ -37,6 +36,6 @@ In order to generate the solution file for this competiton, simply download the 
 5. instacart_processing_script.ipynb -> ./data/order_train.csv | ./data/order_test.csv
 </pre>
 
-After running **instacart_processing_script.ipynb**, you'll have generated **order_train.csv** and **"order_test.csv**. Ensure that they're in their proper directory and run **instacart_lightgbm.ipynb**. The file will be generated and placed in the ./data/ folder for further exploration.
+After running **instacart_processing_script.ipynb**, you'll have generated **order_train.csv** and **order_test.csv**. Ensure that they're in their proper directory and run **instacart_lightgbm.ipynb**. The file will be generated and placed in the ./data/ folder for further exploration.
 
 ---
