@@ -68,6 +68,10 @@ Results on Leaderboard:
 
 ---
 
+For this competition, the repository contains the code for one of the BERT (BASE) models in my final ensemble to fine-tune itself and generate predictions. Sadly, I'm unable to report an accurate AUC score for this model, as there was an error on Kaggle's end with the leaderboard at the end of the competiton and previous scores were wiped. My complete solution consisted of four different, fine-tuned BERT (BASE) models, an ensemble of two Bi-LSTM and two Bi-GRU models that each differed primarily by seed, and a single BERT (LARGE) model that I fine-tuned on cloud servers. This combined model resulted in an AUC score of approximately 0.94511, or 45th / 2646 on the private leaderboard. The first-place solution to this competition (https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/103280#latest-619135) ended up with a final score of 0.94734.
+
+---
+
 ### New York City Taxi Trip Duration
 
 In this competition, Kaggle is challenging you to build a model that predicts the total ride duration of taxi trips in New York City. Your primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables.
