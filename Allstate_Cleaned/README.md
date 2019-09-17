@@ -12,8 +12,8 @@ Link: https://www.kaggle.com/c/allstate-claims-severity/data <br/>
 
 <pre>
 Diagram: <br />
-data ----------------------|----- train.csv <br />
-.gitignore                 |----- test.csv <br />
-README.md                  | <br />
-allstate_cleaned.ipynb     | <br />
+data ----------------------|----- train.csv
+.gitignore                 |----- test.csv
+README.md                  |
+allstate_cleaned.ipynb     |
 </pre>
