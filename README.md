@@ -53,9 +53,9 @@ For this competition, the repository contains the code for my entire solution to
 
 "The Conversation AI team, a research initiative founded by Jigsaw and Google (both part of Alphabet), builds technology to protect voices in conversation. A main area of focus is machine learning models that can identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion. When the Conversation AI team first built toxicity models, they found that the models incorrectly learned to associate the names of frequently attacked identities with toxicity ... In this competition, you're challenged to build a model that recognizes toxicity and minimizes this type of unintended bias with respect to mentions of identities. You'll be using a dataset labeled for identity mentions and optimizing a metric designed to measure unintended bias. Develop strategies to reduce unintended bias in machine learning models, and you'll help the Conversation AI team, and the entire industry, build models that work well for a wide range of conversations."
 
-Team Name: Nick & Wenrui (45th / 2646)
+Team Name: Nick & Wenrui (45th / 2646) <br />
 Link to Competition: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification <br/>
-Link to Repository: https://github.com/nicksarris/Google_ML/tree/master/Jigsaw_Cleaned <br />
+Link to Repository: https://github.com/nicksarris/Google_ML/tree/master/Jigsaw_Cleaned
 
 ---
 
