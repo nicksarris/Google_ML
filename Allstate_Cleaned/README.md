@@ -21,7 +21,7 @@ Allstate_Cleaned -----|----- data ----------------------|----- train.csv
 
 ### Competition Scripts
 
-Below is documentation for all of the scripts included in my solution. For each script, I'll explain each of the functions (variables, returns, etc.) and include other notes as necessary
+**Below is documentation for all of the scripts included in my solution. For each script, I'll explain each of the functions (variables, returns, etc.) and include other notes as necessary**
 
 ---
 
