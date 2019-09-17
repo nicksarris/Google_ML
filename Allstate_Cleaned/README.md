@@ -10,8 +10,8 @@
 
 Link: https://www.kaggle.com/c/allstate-claims-severity/data <br/>
 
-Diagram: 
-data ----------------------|----- train.csv
-.gitignore                 |----- test.csv
-README.md                  |
-allstate_cleaned.ipynb     |
+Diagram: <br />
+data ----------------------|----- train.csv <br />
+.gitignore                 |----- test.csv <br />
+README.md                  | <br />
+allstate_cleaned.ipynb     | <br />
