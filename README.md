@@ -94,6 +94,8 @@ Results on Leaderboard:
 
 For this competition, the repository contains the code for my untuned final ensemble. I seem to have misplaced the code for my **actual** final ensemble over the years. Whereas the code provided returns an RMSE score of 0.40932 on the private leaderboard, my best ensemble scores approximately 0.37498. The first place solution (code/explanation isn't provided by the individual) was able to generate an RMSE score of 0.28976.
 
+---
+
 ### The Numer.ai Hedge Fund
 
 Numerai is an AI-run, crowd-sourced hedge fund based in San Francisco. It was created by South African technologist Richard Craib in October 2015. Its primary competitors are other open source trading platforms mainly QuantConnect, Quantopian & WorldQuant. Every week, Numerai hosts a tournament in which data scientists submit their predictions in exchange for the potential to earn some amount of USD and a cryptocurrency called Numeraire.
@@ -108,5 +110,9 @@ Results on Leaderboard:
 | Models | Public Leaderboard | Private Leaderboard | Outcome
 | :---         |     :---      |         :--- |          :--- |
 | XGBoost (Included) | N/A | N/A | N/A
+
+---
+
+Lorem ipsum
 
 ---
