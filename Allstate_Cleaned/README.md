@@ -8,7 +8,7 @@
 
 ### Data: 
 
-Link: https://www.kaggle.com/c/allstate-claims-severity/data <br/>
+Download: https://www.kaggle.com/c/allstate-claims-severity/data
 
 <pre>
 Allstate_Cleaned -----|----- data ----------------------|----- train.csv
