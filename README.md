@@ -16,6 +16,8 @@ Results on Leaderboard:
 Link to Competition: https://www.kaggle.com/c/allstate-claims-severity/ <br/>
 Team Name: Misfyre (114th / 3055)
 
+For this competition, the repository contains the code for my best single model, which resulted in a mean absolute error of 1121.82356 when compared to the test labels, or 664th / 3055 on the private leaderboard. This model, blended with an XGBoost and NN solution, ended up scoring a mean absolute error of 1113.62895, good enough for 114th / 3055 on the private leaderboard. The winning solution to this competition, which employed more than 80 different models, only had a mean absolute error of 1109.70772.
+
 ## Instacart Market Basket Analysis
 
 "Whether you shop from meticulously planned grocery lists or let whimsy guide your grazing, our unique food rituals define who we are. Instacart, a grocery ordering and delivery app, aims to make it easy to fill your refrigerator and pantry with your personal favorites and staples when you need them. After selecting products through the Instacart app, personal shoppers review your order and do the in-store shopping and delivery for you ... In this competition, Instacart is challenging the Kaggle community to use this anonymized data on customer orders over time to predict which previously purchased products will be in a user’s next order."
