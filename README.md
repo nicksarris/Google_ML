@@ -31,7 +31,7 @@ Results on Leaderboard:
 | :---         |     :---      |         :--- |          :--- |
 | LightGBM (Included) | 0.40419 (F1) | 0.40249 (F1) | 378th / 2622
 
-For this competition, the repository contains the code for my entire solution to this competition, which resulted in an F1 score of approximately 0.40249 when compared to the test labels, or 378th / 2622 on the private leaderboard. The second-place solution to this competition (https://github.com/KazukiOnodera/Instacart) ended up with an F1 score of 0.40820.
+For this competition, the repository contains the code for my entire solution to this competition, which resulted in an F1 score of approximately 0.40249 when compared to the test labels, or 378th / 2622 on the private leaderboard. The second-place solution to this competition (https://www.kaggle.com/c/instacart-market-basket-analysis/discussion/38143#latest-432390, https://github.com/KazukiOnodera/Instacart) ended up with an F1 score of 0.40820.
 
 ## Jigsaw Unintended Bias in Toxicity Classification
 
