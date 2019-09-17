@@ -6,7 +6,7 @@
 
 ---
 
-### Data
+### Competition Data
 
 https://www.kaggle.com/c/allstate-claims-severity/data
 
