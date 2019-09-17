@@ -102,8 +102,9 @@ For this competition, the repository contains the code for my untuned final ense
 
 Numerai is an AI-run, crowd-sourced hedge fund based in San Francisco. It was created by South African technologist Richard Craib in October 2015. Its primary competitors are other open source trading platforms mainly QuantConnect, Quantopian & WorldQuant. Every week, Numerai hosts a tournament in which data scientists submit their predictions in exchange for the potential to earn some amount of USD and a cryptocurrency called Numeraire.
 
+Team Name: N/A (N/A) <br />
 Link to Competition: https://numer.ai/rounds <br/>
-Team Name: N/A (N/A)
+Link to Repository: https://github.com/nicksarris/Google_ML/tree/master/Numerai_Cleaned
 
 ---
 
@@ -115,6 +116,6 @@ Results on Leaderboard:
 
 ---
 
-Lorem ipsum
+Unlike Kaggle, Numerai hosts weekly competitions in which the data is solely anonymized features pertaining to the stock market. Every prediction submitted gets added to their combined ensemble, which they use to trade on the market over the next week/month. As such, there's no real indicator, like the public leaderboard, of how your model is performing relative to other data scientists' beyond the weekly report, which has a ton of variance. The stock market is inherently volatile; a model that scores at the top of the leaderboard one week might end up being at the bottom the next. As such, I tried to be unique in my solutions, to differentiate myself from other data scientists. Over a six-month period of participating before I decided to stop since Numerai changed the entirety of tournament structure to promote gambling, I ended up making more than $1200 and ~800 Numeraire ($16,000) from submitting nine individual submissions weekly. The repository linked contains a single one of my models.
 
 ---
