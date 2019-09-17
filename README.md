@@ -9,12 +9,14 @@
 Link to Competition: https://www.kaggle.com/c/allstate-claims-severity/ <br/>
 Team Name: Misfyre (114th / 3055) <br />
 Results on Leaderboard:
+
 ---
 | Models | Public Leaderboard | Private Leaderboard | Outcome
 | :---         |     :---      |         :--- |          :--- |
 | LightGBM (Included) | 1108.50187 (MAE) | 1121.82356 (MAE) | 664th / 3055
 | Ensemble (Best) | 1101.21368 (MAE) | 1113.62895 (MAE) | 114th / 3055
 ---
+
 For this competition, the repository contains the code for my best single model, which resulted in a mean absolute error of 1121.82356 when compared to the test labels, or 664th / 3055 on the private leaderboard. This model, blended with an XGBoost and NN solution, ended up scoring a mean absolute error of 1113.62895, good enough for 114th / 3055 on the private leaderboard. The winning solution to this competition (https://www.kaggle.com/c/allstate-claims-severity/discussion/26416#latest-261183), which employed more than 80 different models, only had a mean absolute error of 1109.70772.
 
 ## Instacart Market Basket Analysis
