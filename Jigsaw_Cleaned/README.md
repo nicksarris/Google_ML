@@ -11,12 +11,12 @@
 Link - https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data
 
 <pre>
-Jigsaw_Cleaned -----|----- data ---------------------------------|----- aisles.csv
-                    |----- .gitignore                            |----- departments.csv
-                    |----- README.md                             |----- order_products__prior.csv
-                    |----- jigsaw_bert_inference.ipynb           |----- order_products__train.csv
-                    |----- jigsaw_bert_processing.ipynb          |----- orders.csv
-                    |----- jigsaw_bert_training.ipynb            |----- products.csv
+Jigsaw_Cleaned -----|----- data ----------------------------|----- train.csv
+                    |----- .gitignore                       |----- test.csv
+                    |----- README.md
+                    |----- jigsaw_bert_inference.ipynb
+                    |----- jigsaw_bert_processing.ipynb
+                    |----- jigsaw_bert_training.ipynb
 </pre>
 
 ---
