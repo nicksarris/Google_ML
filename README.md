@@ -8,9 +8,11 @@
 
 Link to Competition: https://www.kaggle.com/c/allstate-claims-severity/ <br/>
 Team Name: Misfyre (114th / 3055) <br />
-Results on Leaderboard:
 
 ---
+
+Results on Leaderboard:
+
 | Models | Public Leaderboard | Private Leaderboard | Outcome
 | :---         |     :---      |         :--- |          :--- |
 | LightGBM (Included) | 1108.50187 (MAE) | 1121.82356 (MAE) | 664th / 3055
