@@ -77,8 +77,9 @@ For this competition, the repository contains the code for one of the BERT (BASE
 
 In this competition, Kaggle is challenging you to build a model that predicts the total ride duration of taxi trips in New York City. Your primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables.
 
+Team Name: Nick Sarris (130th / 1257) <br />
 Link to Competition: https://www.kaggle.com/c/nyc-taxi-trip-duration <br/>
-Team Name: Nick Sarris (130th / 1257)
+Link to Repository: https://github.com/nicksarris/Google_ML/tree/master/Taxi_Riders_Cleaned
 
 ---
 
