@@ -2,6 +2,8 @@
 
 **This repository contains some of my past work on Machine Learning competitions. Each folder corresponds to a different project. Each script in a folder should run properly without errors, although because I primarily used cloud servers to train/run each individual model, some of the pathing and directories may be incorrect. Each individual project is described below:**
 
+---
+
 ## Allstate Claims Severity: 
 
 "When you’ve been devastated by a serious car accident, your focus is on the things that matter the most: family, friends, and other loved ones. Pushing paper with your insurance agent is the last place you want your time or mental energy spent. This is why Allstate, a personal insurer in the United States, is continually seeking fresh ideas to improve their claims service for the over 16 million households they protect. Allstate is currently developing automated methods of predicting the cost, and hence severity, of claims. In this recruitment challenge, Kagglers are invited to show off their creativity and flex their technical chops by creating an algorithm which accurately predicts claims severity."
@@ -45,6 +47,8 @@ Results on Leaderboard:
 
 For this competition, the repository contains the code for my entire solution to this competition, which resulted in an F1 score of approximately 0.40249 when compared to the test labels, or 378th / 2622 on the private leaderboard. The second-place solution to this competition (https://www.kaggle.com/c/instacart-market-basket-analysis/discussion/38143#latest-432390, https://github.com/KazukiOnodera/Instacart) ended up with an F1 score of 0.40820.
 
+---
+
 ## Jigsaw Unintended Bias in Toxicity Classification
 
 "The Conversation AI team, a research initiative founded by Jigsaw and Google (both part of Alphabet), builds technology to protect voices in conversation. A main area of focus is machine learning models that can identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion. When the Conversation AI team first built toxicity models, they found that the models incorrectly learned to associate the names of frequently attacked identities with toxicity ... In this competition, you're challenged to build a model that recognizes toxicity and minimizes this type of unintended bias with respect to mentions of identities. You'll be using a dataset labeled for identity mentions and optimizing a metric designed to measure unintended bias. Develop strategies to reduce unintended bias in machine learning models, and you'll help the Conversation AI team, and the entire industry, build models that work well for a wide range of conversations."
@@ -71,12 +75,16 @@ In this competition, Kaggle is challenging you to build a model that predicts th
 Link to Competition: https://www.kaggle.com/c/nyc-taxi-trip-duration <br/>
 Team Name: Nick Sarris (130th / 1257)
 
+---
+
 Results on Leaderboard:
 
 | Models | Public Leaderboard | Private Leaderboard | Outcome
 | :---         |     :---      |         :--- |          :--- |
 | Ensemble (Included) | 0.41204 (RMSE) | 0.40932 (RMSE) | 536th / 1257
 | Ensemble (Best) | 0.37745 (RMSE | 0.37498 (RMSE) | 130th / 1257
+
+---
 
 ## The Numer.ai Hedge Fund
 
@@ -85,9 +93,12 @@ Numerai is an AI-run, crowd-sourced hedge fund based in San Francisco. It was cr
 Link to Competition: https://numer.ai/rounds <br/>
 Team Name: N/A (N/A)
 
+---
+
 Results on Leaderboard:
 
 | Models | Public Leaderboard | Private Leaderboard | Outcome
 | :---         |     :---      |         :--- |          :--- |
 | XGBoost (Included) | N/A | N/A | N/A
 
+---
