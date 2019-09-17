@@ -8,7 +8,7 @@
 
 ### Competition Data
 
-https://www.kaggle.com/c/allstate-claims-severity/data
+Link - https://www.kaggle.com/c/allstate-claims-severity/data
 
 <pre>
 Allstate_Cleaned -----|----- data ----------------------|----- train.csv
@@ -16,3 +16,6 @@ Allstate_Cleaned -----|----- data ----------------------|----- train.csv
                       |----- README.md                  |
                       |----- allstate_cleaned.ipynb     |
 </pre>
+
+---
+
