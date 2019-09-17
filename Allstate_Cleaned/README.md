@@ -21,3 +21,5 @@ Allstate_Cleaned -----|----- data ----------------------|----- train.csv
 
 ### Competition Scripts
 
+*allstate_cleaned.ipynb*
+
