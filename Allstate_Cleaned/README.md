@@ -25,5 +25,5 @@ Below is documentation for all of the scripts included in my solution. For each 
 
 ---
 
-*allstate_cleaned.ipynb* - Functions - seed_everything, encode, mungeskewed, fair_obj, xg_eval_mae 
+*allstate_cleaned.ipynb* - Functions - seed_everything, encode, mungeskewed, fair_obj, xg_eval_mae <br />
 *allstate_cleaned.ipynb* - Returns - output_data.csv
