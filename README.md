@@ -17,6 +17,7 @@ Results on Leaderboard:
 | :---         |     :---      |         :--- |          :--- |
 | LightGBM (Included) | 1108.50187 (MAE) | 1121.82356 (MAE) | 664th / 3055
 | Ensemble (Best) | 1101.21368 (MAE) | 1113.62895 (MAE) | 114th / 3055
+
 ---
 
 For this competition, the repository contains the code for my best single model, which resulted in a mean absolute error of 1121.82356 when compared to the test labels, or 664th / 3055 on the private leaderboard. This model, blended with an XGBoost and NN solution, ended up scoring a mean absolute error of 1113.62895, good enough for 114th / 3055 on the private leaderboard. The winning solution to this competition (https://www.kaggle.com/c/allstate-claims-severity/discussion/26416#latest-261183), which employed more than 80 different models, only had a mean absolute error of 1109.70772.
@@ -28,11 +29,15 @@ For this competition, the repository contains the code for my best single model,
 Link to Competition: https://www.kaggle.com/c/instacart-market-basket-analysis/ <br/>
 Team Name: Nick Sarris (378th / 2622)
 
+---
+
 Results on Leaderboard:
 
 | Models | Public Leaderboard | Private Leaderboard | Outcome
 | :---         |     :---      |         :--- |          :--- |
 | LightGBM (Included) | 0.40419 (F1) | 0.40249 (F1) | 378th / 2622
+
+---
 
 For this competition, the repository contains the code for my entire solution to this competition, which resulted in an F1 score of approximately 0.40249 when compared to the test labels, or 378th / 2622 on the private leaderboard. The second-place solution to this competition (https://www.kaggle.com/c/instacart-market-basket-analysis/discussion/38143#latest-432390, https://github.com/KazukiOnodera/Instacart) ended up with an F1 score of 0.40820.
 
@@ -43,6 +48,8 @@ For this competition, the repository contains the code for my entire solution to
 Link to Competition: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification <br/>
 Team Name: Nick & Wenrui (45th / 2646)
 
+---
+
 Results on Leaderboard:
 
 | Models | Public Leaderboard | Private Leaderboard | Outcome
@@ -50,6 +57,8 @@ Results on Leaderboard:
 | Bert Singular (Included) | N/A | N/A | N/A
 | Bert Ensemble | N/A | N/A | N/A
 | LSTM/Bert Ensemble (Best) | N/A | 0.94511 (AUC) | 45th / 2646 
+
+---
 
 ## New York City Taxi Trip Duration
 
