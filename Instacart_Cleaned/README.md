@@ -11,7 +11,7 @@
 Link - https://www.kaggle.com/c/instacart-market-basket-analysis/data
 
 <pre>
-Instacart_Cleaned -----|----- data ---------------------------------|----- aisles.csv
+instacart_cleaned -----|----- data ---------------------------------|----- aisles.csv
                        |----- .gitignore                            |----- departments.csv
                        |----- README.md                             |----- order_products__prior.csv
                        |----- instacart_labelling_script.ipynb      |----- order_products__train.csv
