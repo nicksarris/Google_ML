@@ -35,7 +35,7 @@ For this competition, the repository contains the code for my best single model,
 
 Team Name - Nick Sarris (378th / 2622) <br />
 Link to Competition - https://www.kaggle.com/c/instacart-market-basket-analysis/ <br/>
-Link to Repository - https://github.com/nicksarris/Google_ML/tree/master/Instacart_Cleaned
+Link to Repository - https://github.com/nicksarris/google_ml/tree/master/ml_projects/instacart_market_basket_analysis
 
 ---
 
