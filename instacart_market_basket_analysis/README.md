@@ -11,15 +11,15 @@
 Link - https://www.kaggle.com/c/instacart-market-basket-analysis/data
 
 <pre>
-instacart_cleaned -----|----- data ---------------------------------|----- aisles.csv
-                       |----- .gitignore                            |----- departments.csv
-                       |----- README.md                             |----- order_products__prior.csv
-                       |----- instacart_labelling_script.ipynb      |----- order_products__train.csv
-                       |----- instacart_lightgbm.ipynb              |----- orders.csv
-                       |----- instacart_processing_script.ipynb     |----- products.csv
-                       |----- instacart_product_script.ipynb
-                       |----- instacart_splitting_script.ipynb
-                       |----- instacart_statistics_script.ipynb
+instacart_market_basket_analysis -----|----- data ---------------------------------|----- aisles.csv
+                                      |----- .gitignore                            |----- departments.csv
+                                      |----- README.md                             |----- order_products__prior.csv
+                                      |----- instacart_labelling_script.ipynb      |----- order_products__train.csv
+                                      |----- instacart_lightgbm.ipynb              |----- orders.csv
+                                      |----- instacart_processing_script.ipynb     |----- products.csv
+                                      |----- instacart_product_script.ipynb
+                                      |----- instacart_splitting_script.ipynb
+                                      |----- instacart_statistics_script.ipynb
 </pre>
 
 ---
