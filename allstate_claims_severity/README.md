@@ -11,10 +11,10 @@
 Link - https://www.kaggle.com/c/allstate-claims-severity/data
 
 <pre>
-allstate_cleaned -----|----- data ----------------------|----- train.csv
-                      |----- .gitignore                 |----- test.csv
-                      |----- README.md                  |
-                      |----- allstate_cleaned.ipynb     |
+allstate_claims_severity -----|----- data ----------------------|----- train.csv
+                              |----- .gitignore                 |----- test.csv
+                              |----- README.md
+                              |----- allstate_cleaned.ipynb
 </pre>
 
 ---
