@@ -11,11 +11,11 @@
 Link - https://numer.ai/rounds/kazutsugi/177
 
 <pre>
-Instacart_Cleaned -----|----- data ---------------------|----- numerai_training_data.csv
-                       |----- .gitignore                |----- numerai_tournament_data.csv
-                       |----- README.md
-                       |----- numerai_cleaned.ipynb
-                       |----- numerai_pipeline.py
+numerai_cleaned -----|----- data ---------------------|----- numerai_training_data.csv
+                     |----- .gitignore                |----- numerai_tournament_data.csv
+                     |----- README.md
+                     |----- numerai_cleaned.ipynb
+                     |----- numerai_pipeline.py
 </pre>
 
 ---
