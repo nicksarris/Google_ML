@@ -11,7 +11,7 @@
 Link - https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
 <pre>
-Taxi_Riders_Cleaned -----|----- data -------------------------|----- train.csv
+taxi_riders_cleaned -----|----- data -------------------------|----- train.csv
                          |----- .gitignore                    |----- test.csv
                          |----- README.md
                          |----- taxi_riders_cleaned.ipynb
