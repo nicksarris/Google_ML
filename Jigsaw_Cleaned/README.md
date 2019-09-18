@@ -6,6 +6,18 @@
 
 ---
 
+### Requirements
+
+In order to run **jigsaw_bert_training.ipynb**, you'll also need to install nvidia-apex. In order to do so, follow the following instructions:
+
+<pre>
+$ git clone https://github.com/NVIDIA/apex
+$ cd apex
+$ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./
+</pre>
+
+---
+
 ### Competition Data
 
 Link (1) - https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data <br />
