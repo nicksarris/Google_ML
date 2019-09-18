@@ -11,11 +11,12 @@
 Link - https://numer.ai/rounds/kazutsugi/177
 
 <pre>
-numerai_cleaned -----|----- data ---------------------|----- numerai_training_data.csv
-                     |----- .gitignore                |----- numerai_tournament_data.csv
-                     |----- README.md
-                     |----- numerai_cleaned.ipynb
-                     |----- numerai_pipeline.py
+
+numerai_hedge_fund -----|----- data ---------------------|----- numerai_training_data.csv
+                        |----- .gitignore                |----- numerai_tournament_data.csv
+                        |----- README.md
+                        |----- numerai_cleaned.ipynb
+                        |----- numerai_pipeline.py
 </pre>
 
 ---

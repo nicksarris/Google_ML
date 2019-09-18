@@ -11,10 +11,11 @@
 Link - https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
 <pre>
-taxi_riders_cleaned -----|----- data -------------------------|----- train.csv
-                         |----- .gitignore                    |----- test.csv
-                         |----- README.md
-                         |----- taxi_riders_cleaned.ipynb
+
+nyc_taxi_trip_duration -----|----- data -------------------------|----- train.csv
+                            |----- .gitignore                    |----- test.csv
+                            |----- README.md
+                            |----- taxi_riders_cleaned.ipynb
 </pre>
 
 ---

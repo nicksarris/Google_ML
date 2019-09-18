@@ -24,12 +24,12 @@ Link (1) - https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classific
 Link (2) - https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
 
 <pre>
-jigsaw_cleaned -----|----- data ----------------------------|----- train.csv                    |----- bert_config.json
-                    |----- .gitignore                       |----- test.csv                     |----- bert_model.ckpt.data-00000-of-00001
-                    |----- README.md                        |----- uncased_L-12_H-768_A-12 -----|----- bert_model.ckpt.index
-                    |----- jigsaw_bert_inference.ipynb                                          |----- bert_model.ckpt.meta
-                    |----- jigsaw_bert_processing.ipynb                                         |----- vocab.txt
-                    |----- jigsaw_bert_training.ipynb
+jigsaw_unintended_bias -----|----- data ----------------------------|----- train.csv                    |----- bert_config.json
+                            |----- .gitignore                       |----- test.csv                     |----- bert_model.ckpt.data-00000-of-00001
+                            |----- README.md                        |----- uncased_L-12_H-768_A-12 -----|----- bert_model.ckpt.index
+                            |----- jigsaw_bert_inference.ipynb                                          |----- bert_model.ckpt.meta
+                            |----- jigsaw_bert_processing.ipynb                                         |----- vocab.txt
+                            |----- jigsaw_bert_training.ipynb
 </pre>
 
 ---
