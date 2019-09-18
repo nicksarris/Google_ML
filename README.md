@@ -57,7 +57,7 @@ For this competition, the repository contains the code for my entire solution to
 
 Team Name - Nick & Wenrui (45th / 2646) <br />
 Link to Competition - https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification <br/>
-Link to Repository - https://github.com/nicksarris/Google_ML/tree/master/Jigsaw_Cleaned
+Link to Repository - https://github.com/nicksarris/google_ml/tree/master/ml_projects/jigsaw_unintended_bias
 
 ---
 
@@ -81,7 +81,7 @@ For this competition, the repository contains the code for one of the BERT (BASE
 
 Team Name - Nick Sarris (130th / 1257) <br />
 Link to Competition - https://www.kaggle.com/c/nyc-taxi-trip-duration <br/>
-Link to Repository - https://github.com/nicksarris/Google_ML/tree/master/Taxi_Riders_Cleaned
+Link to Repository - https://github.com/nicksarris/google_ml/tree/master/ml_projects/nyc_taxi_trip_duration
 
 ---
 
@@ -104,7 +104,7 @@ For this competition, the repository contains the code for my untuned final ense
 
 Team Name - N/A (N/A) <br />
 Link to Competition - https://numer.ai/rounds <br/>
-Link to Repository - https://github.com/nicksarris/Google_ML/tree/master/Numerai_Cleaned
+Link to Repository - https://github.com/nicksarris/google_ml/tree/master/ml_projects/numerai_hedge_fund
 
 ---
 
