@@ -12,7 +12,7 @@
 
 Team Name - Misfyre (114th / 3055) <br />
 Link to Competition - https://www.kaggle.com/c/allstate-claims-severity/ <br/>
-Link to Repository - https://github.com/nicksarris/Google_ML/tree/master/Allstate_Cleaned
+Link to Repository - https://github.com/nicksarris/google_ml/tree/master/ml_projects/allstate_claims_severity
 
 ---
 
